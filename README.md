@@ -27,8 +27,24 @@ Then you can continue with [this tutorial](https://www.pythonspot.com/introducti
 
 ## You are using python 3, not python 2. Python 2 is old (but still used quite a bit)
 
+If you are having trouble getting python to work on your machine you can use trinket.io. [Their tutorial](https://docs.trinket.io/getting-started-with-python#/welcome/where-we-ll-go
+) is very good too
+
+## Once you have some work that you want to keep you should put it into git. Do you remember how to do that?
+Try searching the internet for help on this.
+
+### Challenge
+#### How many words are in Shakespeare's Hamlet?
+You will need to know how to read data from a file. Split strings up and use a variable to count.
 
 ### Things to cover in class
 * Searching for technical answers on the internet
+* Find and use the python documentation
+
+# Other coding resources
+https://coderdojo.com/
+https://code.org/
+https://www.python.org/
+
 
 Note: This file is written in Markdown. You can find out more [here](https://en.wikipedia.org/wiki/Markdown):
