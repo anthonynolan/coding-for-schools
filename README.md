@@ -1,0 +1,24 @@
+Try to run python on your computer:
+Open a command line and type python
+You should see something like this:
+
+Python 3.7.0 (v3.7.0:1bf9cc5093, Jun 26 2018, 23:26:24)
+[Clang 6.0 (clang-600.0.57)] on darwin
+Type "help", "copyright", "credits" or "license" for more information.
+>>>
+
+Then type exit() to leave the python REPL.
+
+Next create a file with the same content as first_python.py (or just clone that file)
+
+From the command line in the same directory as your python file type this:
+
+./first_python.py
+
+and hit return. Ask for help if this does not work.
+
+
+Then you can continue with this tutorial:
+https://www.pythonspot.com/introduction/
+
+You are using python 3, not python 2. Python 2 is old (but still used quite a bit)
