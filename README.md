@@ -81,9 +81,14 @@ You will need to know how to read data from a file. Split strings up and use a v
 
 
 # Other coding resources
-https://coderdojo.com/
-https://code.org/
-https://www.python.org/
+* https://coderdojo.com/
+* https://code.org/
+* https://www.python.org/
+
+# Handy tips
+## If you want to see the command you just entered in the command line click the up key. You can use the arrow keys to edit this command.
+## To switch between windows: Press alt with your thumb and hold it down. Then hit tab and you can switch between windows.
+## To save changes to a text file use ctrl+s
 
 
 Note: This file is written in Markdown. You can find out more [here](https://en.wikipedia.org/wiki/Markdown):
