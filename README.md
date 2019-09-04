@@ -1,6 +1,8 @@
-### Running python
-#### First check that python is working on your machine
-Open a command line and type `python`
+## Week 1
+
+### Things to do first
+#### Check that python is working on your computer
+Open a command line and type `python` or maybe `python3`
 You should see something like this:
 
 `Python 3.7.0 (v3.7.0:1bf9cc5093, Jun 26 2018, 23:26:24)
@@ -8,30 +10,35 @@ You should see something like this:
 Type "help", "copyright", "credits" or "license" for more information.
 \>>>`
 
+The first number in the python version needs to be 3, *not 2*
 
 Then type
 `exit()`
 to leave the python REPL (what's that?).
 
 #### Now get python running inside a file (normal way to work)
-Next create a file with the same content as `first_python.py` (or just clone that file)
+Next create a new file in a text editor. It should contain just this line:
+
+`print('Welcome to Coding for Schools')`
+
+Save it with a name like `first.py`
+(The name does not really matter, you just have to remember it for the next step)
 
 From the command line in the same directory as your python file type this:
 
-`./first_python.py`
+`python first.py`
 
 and hit return. Ask for help if this does not work.
 
 #### You're all set!
-Then you can continue with [this tutorial](https://www.pythonspot.com/introduction/)
+Then you can continue with [this tutorial](http://www.letslearnpython.com/learn/)
 
 ## You are using python 3, not python 2. Python 2 is old (but still used quite a bit)
 
-If you are having trouble getting python to work on your machine you can use trinket.io. [Their tutorial](https://docs.trinket.io/getting-started-with-python#/welcome/where-we-ll-go
-) is very good too
+If you are having trouble getting python to work on your machine you can take a look at [this page](http://www.letslearnpython.com/learn/lesson/1/step/3/) in the tutorial.
 
-## Once you have some work that you want to keep you should put it into git. Do you remember how to do that?
-Try searching the internet for help on this.
+## Once you have some work that you want to keep you should email it to yourself. That way you can continue where you left off next week (or even before)
+
 
 ### Challenge
 #### How many words are in Shakespeare's Hamlet?
