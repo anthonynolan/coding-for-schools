@@ -8,14 +8,7 @@
 - enter the hello world program in `something.py`
 - run that program from the command line
 
-## General skills
-- Searching for help on the internet
-- `cd`
-- `dir`
-- What is an operating system?
-
 # [The tutorial](http://www.letslearnpython.com/learn/)
-
 
 ## Week 1
 - Get python running on your machine and start the tutorial
