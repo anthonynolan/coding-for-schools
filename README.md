@@ -10,21 +10,26 @@
 
 ## General skills
 - Searching for help on the internet
-- The command line
-  - What is the prompt?
-  - `cd`
-  - `dir`
-- Starting the python interpreter
+- `cd`
+- `dir`
 - What is an operating system?
 
-## Python skills
-- variables
-- loops
-- input
-- comparison operators <, = and >
+# [The tutorial](http://www.letslearnpython.com/learn/)
 
 
 ## Week 1
+- Get python running on your machine and start the tutorial
+
+## Week 2
+- Go through the start of class checklist (top of page)
+- Explanation of what an operating system is
+- Searching the internet for technical answers
+   - Try basic windows command line
+   - what is cd for?
+   - what does dir do?
+   - How do you make your own directory on a computer?
+- Continue with the tutorial
+
 
 #### Check that python works
 To open the command line click the `Window` button at the bottom of your screen (or press the window key on your keyboard) and type `cmd`. Hit return.
@@ -82,16 +87,6 @@ Lesson 1 also shows you how to install python.
 
 *Lesson 6*
 - errors
-
-
-## Now here is the link to [the tutorial](http://www.letslearnpython.com/learn/)
-
-
-### Week 2
-Make sure you understand everything from Week 1. This should cover everything that is in Lessons 2-4. Ask for help if you need it.
-Now start *Lesson 5*
-
-
 
 
 ### Challenge
